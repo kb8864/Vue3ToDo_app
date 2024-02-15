@@ -1,0 +1,20 @@
+current directory: /Users/user/workspace/Vue.js_practice_project/todo_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+/Users/user/.rbenv/versions/3.1.4/bin/ruby -I /Users/user/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/user/workspace/Vue.js_practice_project/todo_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240215-55606-35mcrs sitelibdir\=./.gem.20240215-55606-35mcrs clean
+
+current directory: /Users/user/workspace/Vue.js_practice_project/todo_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240215-55606-35mcrs sitelibdir\=./.gem.20240215-55606-35mcrs
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/user/workspace/Vue.js_practice_project/todo_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240215-55606-35mcrs sitelibdir\=./.gem.20240215-55606-35mcrs install
+/usr/local/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20240215-55606-35mcrs/bootsnap
