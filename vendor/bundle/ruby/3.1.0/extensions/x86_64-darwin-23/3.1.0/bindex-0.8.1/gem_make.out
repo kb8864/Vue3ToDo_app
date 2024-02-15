@@ -1,0 +1,16 @@
+current directory: /Users/user/workspace/Vue.js_practice_project/Vue3ToDo_app/todo_app/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/user/.rbenv/versions/3.1.4/bin/ruby -I /Users/user/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/user/workspace/Vue.js_practice_project/Vue3ToDo_app/todo_app/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240215-79397-armeeu sitelibdir\=./.gem.20240215-79397-armeeu clean
+
+current directory: /Users/user/workspace/Vue.js_practice_project/Vue3ToDo_app/todo_app/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240215-79397-armeeu sitelibdir\=./.gem.20240215-79397-armeeu
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/user/workspace/Vue.js_practice_project/Vue3ToDo_app/todo_app/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240215-79397-armeeu sitelibdir\=./.gem.20240215-79397-armeeu install
+/usr/local/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20240215-79397-armeeu/skiptrace/internal

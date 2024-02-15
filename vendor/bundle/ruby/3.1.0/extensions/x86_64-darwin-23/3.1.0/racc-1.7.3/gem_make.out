@@ -1,0 +1,16 @@
+current directory: /Users/user/workspace/Vue.js_practice_project/Vue3ToDo_app/todo_app/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/user/.rbenv/versions/3.1.4/bin/ruby -I /Users/user/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/user/workspace/Vue.js_practice_project/Vue3ToDo_app/todo_app/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240215-79397-g72980 sitelibdir\=./.gem.20240215-79397-g72980 clean
+
+current directory: /Users/user/workspace/Vue.js_practice_project/Vue3ToDo_app/todo_app/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240215-79397-g72980 sitelibdir\=./.gem.20240215-79397-g72980
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/user/workspace/Vue.js_practice_project/Vue3ToDo_app/todo_app/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240215-79397-g72980 sitelibdir\=./.gem.20240215-79397-g72980 install
+/usr/local/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20240215-79397-g72980/racc
